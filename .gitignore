@@ -1,1 +1,7 @@
-target/
+.gradle/
+build
+out
+bin
+*.iml
+*.ipr
+*.iws
